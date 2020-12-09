@@ -210,6 +210,8 @@ textarea {
 img {
   height: auto;
   max-width: 100%;
+  /*max-height: 120px;
+  max-width: 120px;*/
 }
 .pull_left{float: left}
 .pull_right{float: right}

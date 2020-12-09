@@ -2,6 +2,9 @@
   background: #0148BC none repeat scroll 0 0;
   padding: 14px 0 12px;
 }
+.navigation-menu {
+    padding: 18px;
+}
 .top-left ul{
     margin: 0;
     padding: 0;
@@ -42,7 +45,7 @@
     margin-right: 6px;
 }
 .logo {
-  width: 100px;
+  width: 50%;
   display: inline-block;
   padding: 15px;
   text-align: left;
@@ -66,7 +69,7 @@
     padding: 5px 15px 6px;
     text-transform: capitalize;
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: 22px;
     font-weight: 700;
 }
 .main-menu ul li:hover a{
