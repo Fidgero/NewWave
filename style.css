@@ -1455,7 +1455,8 @@ p.hover{
     }
 }
 
-#googleMap{
-    width:100%;
-    height:800px;
-}
+.verticalLine {
+    border-left: 1px solid white;
+    height: 10px;
+    /*left: 50%;*/
+    top: 0;
