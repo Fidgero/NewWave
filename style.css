@@ -1252,7 +1252,7 @@ p.hover{
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    background: url(images/banner/2.jpg);
+    background: url(images/banner/1.jpg);
 }
 .banner-area.contact::after {
   background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
